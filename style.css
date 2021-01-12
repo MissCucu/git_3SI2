@@ -47,6 +47,10 @@ section h1, footer h1, nav a
 }
 
 /* Header */
+h1
+{
+	color: red;
+}
 
 header
 {
